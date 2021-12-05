@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Collection Filter
-// @version      0.1
+// @name         CC Collection Filter
+// @version      1.0
 // @description  Adds a form on the collection comparison page to allow advanced filtering.
 // @author       mandy-h
 // @match        https://www.clickcritters.com/compare_collections.php?compareto=*
